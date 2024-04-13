@@ -568,6 +568,25 @@ a:focus {
           align-items: center;
 }
 
+.why_section2 .box .img-box {
+  margin-bottom: 20px;
+  width: 120px;
+  height: 120px;
+  min-width: 120px;
+  min-height: 120px;
+  border-radius: 100%;
+  border: 5px solid #00204a;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
 .why_section .box .img-box img {
   width: 55px;
   height: auto;
